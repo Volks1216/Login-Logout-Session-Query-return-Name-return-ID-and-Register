@@ -1,0 +1,30 @@
+header{
+    color: rgb(255, 255, 255);
+    background-color: gray;
+    font-weight: bolder;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    border-bottom: 1cm;
+}
+
+.par1{
+    text-align: center;
+    width: 400px;
+    align-items: center;
+    align-content: center;
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+}
+
+p{
+    background-color: aliceblue;
+}
+
+h1{
+    color: aqua;
+}
+
+body{
+    background-image: url(p1.jpg);
+}
